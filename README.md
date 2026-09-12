@@ -21,8 +21,8 @@
 <!-- 贪吃蛇动图：由本仓库的 GitHub Actions 每日生成到 output 分支 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chuluono/chuluono/output/github-contribution-grid-snake-dark.svg?v=20260911" />
-    <img src="https://raw.githubusercontent.com/chuluono/chuluono/output/github-contribution-grid-snake.svg?v=20260911" alt="GitHub contribution snake animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chuluono/chuluono/output/github-contribution-grid-snake-dark.svg?v=20260912" />
+    <img src="https://raw.githubusercontent.com/chuluono/chuluono/output/github-contribution-grid-snake.svg?v=20260912" alt="GitHub contribution snake animation" width="100%" />
   </picture>
 </div>
 <br/>
@@ -34,8 +34,8 @@
 ## GitHub Streak
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chuluono&amp;hide_border=true&amp;background=0d1117&amp;stroke=21262d&amp;ring=ff4d6d&amp;fire=ff4d6d&amp;currStreakNum=e6edf3&amp;sideNums=9aa4b2&amp;currStreakLabel=ff7597&amp;sideLabels=9aa4b2&amp;dates=6e7681&amp;v=20260911" />
-    <img src="https://streak-stats.demolab.com?user=chuluono&amp;hide_border=true&amp;background=ffffff&amp;stroke=ebeef2&amp;ring=c9184a&amp;fire=c9184a&amp;currStreakNum=1f2328&amp;sideNums=57606a&amp;currStreakLabel=c9184a&amp;sideLabels=57606a&amp;dates=818b98&amp;v=20260911" alt="GitHub streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chuluono&amp;hide_border=true&amp;background=0d1117&amp;stroke=21262d&amp;ring=ff4d6d&amp;fire=ff4d6d&amp;currStreakNum=e6edf3&amp;sideNums=9aa4b2&amp;currStreakLabel=ff7597&amp;sideLabels=9aa4b2&amp;dates=6e7681&amp;v=20260912" />
+    <img src="https://streak-stats.demolab.com?user=chuluono&amp;hide_border=true&amp;background=ffffff&amp;stroke=ebeef2&amp;ring=c9184a&amp;fire=c9184a&amp;currStreakNum=1f2328&amp;sideNums=57606a&amp;currStreakLabel=c9184a&amp;sideLabels=57606a&amp;dates=818b98&amp;v=20260912" alt="GitHub streak stats" />
   </picture>
 </div>
 <!-- for beauty 留个空行好看点 -->
@@ -44,15 +44,15 @@
 <!-- star 语言占比等统计：使用 actively maintained 的 GitHub Stats Extended 公共实例 -->
 ## GitHub Stats
 <div align="center">
-  <img height="137px" src="https://github-stats-extended.vercel.app/api?username=chuluono&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;line_height=21&amp;v=20260911" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chuluono&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;v=20260911" alt="Top languages" />
+  <img height="137px" src="https://github-stats-extended.vercel.app/api?username=chuluono&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;line_height=21&amp;v=20260912" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chuluono&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;v=20260912" alt="Top languages" />
 </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
 <!-- 奖杯墙：radical 玫瑰紫主题、无边框；官方实例受配额影响，用维护者提供的备用实例 -->
 ## GitHub Trophies
-<div align="center"> <img src="https://trophy.ryglcloud.net/?username=chuluono&amp;theme=radical&amp;no_frame=true&amp;v=20260911" alt="GitHub profile trophies" /> </div>
+<div align="center"> <img src="https://trophy.ryglcloud.net/?username=chuluono&amp;theme=radical&amp;no_frame=true&amp;v=20260912" alt="GitHub profile trophies" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
@@ -60,17 +60,17 @@
 ## GitHub Contribution
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuluono&amp;theme=github_dark&amp;v=20260911" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuluono&amp;theme=github&amp;v=20260911" alt="GitHub contribution summary" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuluono&amp;theme=github_dark&amp;v=20260912" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuluono&amp;theme=github&amp;v=20260912" alt="GitHub contribution summary" width="100%" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuluono&amp;theme=github_dark&amp;v=20260911" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuluono&amp;theme=github&amp;v=20260911" alt="Repos per language" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuluono&amp;theme=github_dark&amp;v=20260912" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuluono&amp;theme=github&amp;v=20260912" alt="Repos per language" width="49%" />
   </picture><!--
   --><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chuluono&amp;theme=github_dark&amp;v=20260911" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chuluono&amp;theme=github&amp;v=20260911" alt="Productive time" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chuluono&amp;theme=github_dark&amp;v=20260912" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chuluono&amp;theme=github&amp;v=20260912" alt="Productive time" width="49%" />
   </picture>
 </div>
 
@@ -80,8 +80,8 @@
 <!-- 3D个人贡献资料图：暗色夜彩虹 / 亮色经典绿 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chuluono/chuluono/main/profile-3d-contrib/profile-night-rainbow.svg?v=20260911" />
-    <img width="100%" src="https://raw.githubusercontent.com/chuluono/chuluono/main/profile-3d-contrib/profile-green-animate.svg?v=20260911" alt="3D contribution profile" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chuluono/chuluono/main/profile-3d-contrib/profile-night-rainbow.svg?v=20260912" />
+    <img width="100%" src="https://raw.githubusercontent.com/chuluono/chuluono/main/profile-3d-contrib/profile-green-animate.svg?v=20260912" alt="3D contribution profile" />
   </picture>
 </div>
 
